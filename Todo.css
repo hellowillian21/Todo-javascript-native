@@ -1,0 +1,8 @@
+/* 完成的样式 */
+.done {
+    color: gray;
+    text-decoration: line-through;
+}
+.todo-cell{
+    padding: 5px;
+}
